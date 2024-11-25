@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaDiscord, FaGithub, FaTwitch } from "react-icons/fa";
 
 const links = [
